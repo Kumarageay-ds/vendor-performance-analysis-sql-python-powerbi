@@ -164,4 +164,4 @@ Data Analyst
 Dashboard Screenshot
 show that the dashboard looks like. - ![Alt text](https://github.com/Kumarageay-ds/vendor-performance-analysis-sql-python-powerbi/blob/main/vendor%20performance%20analysis%20dashboard.png)
 
-Example : ![Dashboard Preview](https://github.com/Kumarageay-ds/vendor-performance-analysis-sql-python-powerbi/blob/main/vendor%20performance%20analysis%20dashboard.png)
+
