@@ -1,0 +1,11 @@
+2025-08-31 12:42:47,607 - INFO - Logging started successfully!
+2025-08-31 12:43:09,759 - INFO - Logging started successfully!
+2025-08-31 12:46:35,204 - INFO - Ingesting begin_inventory.csv in db
+2025-08-31 12:46:39,153 - INFO - Ingesting end_inventory.csv in db
+2025-08-31 12:46:52,768 - INFO - Ingesting purchases.csv in db
+2025-08-31 12:47:55,879 - INFO - Ingesting purchase_prices.csv in db
+2025-08-31 12:48:35,848 - INFO - Ingesting sales.csv in db
+2025-08-31 12:56:58,013 - INFO - Ingesting vendor_invoice.csv in db
+2025-08-31 12:56:58,207 - INFO - ----------Ingestion Complete----------
+2025-08-31 12:56:58,208 - INFO - 
+Total Time Taken: 10.392262518405914 minutes
