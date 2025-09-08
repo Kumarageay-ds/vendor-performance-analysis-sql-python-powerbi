@@ -160,4 +160,8 @@ Data Analyst
 📧 Email: kumarageay@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kumar-ageay-4841a8205/)  
 🔗 [Portfolio](https://kumarageay-ds.github.io/Kumarageay.github.io/)
-# vendor-performance-analysis-sql-python-powerbi
+
+Dashboard Screenshot
+show that the dashboard looks like. - ![Alt text](https://github.com/Kumarageay-ds/vendor-performance-analysis-sql-python-powerbi/blob/main/vendor%20performance%20analysis%20dashboard.png)
+
+Example : ![Dashboard Preview](https://github.com/Kumarageay-ds/vendor-performance-analysis-sql-python-powerbi/blob/main/vendor%20performance%20analysis%20dashboard.png)
